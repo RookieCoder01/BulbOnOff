@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab:wght@300&family=Roboto:wght@300;400&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+div{
+    display: grid;
+    place-items: center;
+    
+}
+
+h3{
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    margin-bottom: 15%;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+#bulbSwitch{
+    
+    margin-top: 20px;
+    background-color: rgb(237, 6, 64);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
